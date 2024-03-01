@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Book_Shelf/",
+    "build": "vite build --base=/js_98_dan1delon/",
     "preview": "vite preview"
   },
   "devDependencies": {
